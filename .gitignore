@@ -1,0 +1,6 @@
+# Visual Studio / .NET temp files
+bin/
+obj/
+.vs/
+*.user
+*.suo
